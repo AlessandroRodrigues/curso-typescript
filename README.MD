@@ -1,31 +1,31 @@
-CURSO TYPESCRIPT
+# CURSO TYPESCRIPT
 
-//requisitos
+- requisitos
 
 node.js
 vscode
 
-//g - dependência global, para todos projetos
+- g - dependência global, para todos projetos
 
 npm install -g typescript
 
-// compilador
+-  compilador
 
 tsc index.ts
 
-// tipagem estática
+-  tipagem estática
 
 let age: number = 44;
 
-// criar configuração
+-  criar configuração
 
 tsc --init
 
-// rodar código compilador
+-  rodar código compilador
 
 node arquivo.js
 
-// usando no react
+-  usando no react
 
 usar arquivos com extensão tsx
 
